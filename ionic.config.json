@@ -1,5 +1,7 @@
 {
   "name": "reformaServidor",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
